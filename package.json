@@ -1,0 +1,9 @@
+{
+  "name": "pendulum",
+  "version": "1.0.0",
+  "main": "server.js",
+  "license": "MIT",
+  "dependencies": {
+    "raspi-serial": "^6.0.0"
+  }
+}
